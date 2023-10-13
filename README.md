@@ -49,7 +49,7 @@ In this project, Google Tesseract is the OCR
 
 - Pipeline the whole model built 
 
-
+**************Pending**************************
 Phase 4
 
 - A web application is created in Flask i.e., RESTful API 
